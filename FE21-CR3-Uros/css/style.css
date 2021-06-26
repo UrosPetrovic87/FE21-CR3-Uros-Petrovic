@@ -1,0 +1,45 @@
+
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 4%;
+}
+#title{
+    font-size: xx-large;
+    text-align: center;
+}
+
+#hom {
+background-image: url(../img/proba.png);
+height: 80vh;
+margin-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#start {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#fot {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url(../img/proba.png);
+    
+}
+#fot p{
+    font-size: xx-large;
+    color: white;
+}
+#cola {
+    margin-top: 10px;
+}
+.checked {
+    color: orange;
+  }
